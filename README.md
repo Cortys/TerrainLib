@@ -3,6 +3,8 @@ TerrainLib
 
 A very simple Java based 3D engine. Completely CPU based.
 
+![Sample image](sample.png)
+
 ## Features
 
 * Scene based object management
@@ -23,6 +25,10 @@ A very simple Java based 3D engine. Completely CPU based.
 * Fix camera rendering bugs
 * Increase performance
 * Fix bug with one ring of the sphere generator.
+* Antialiasing
+* Pixel based rendering
+* Textures
+* Phong shading
 
 ## License
 
