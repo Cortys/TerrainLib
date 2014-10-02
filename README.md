@@ -23,3 +23,7 @@ A very simple Java based 3D engine. Completely CPU based.
 * Fix camera rendering bugs
 * Increase performance
 * Fix bug with one ring of the sphere generator.
+
+## License
+
+MIT - Niko Kleineberg, Clemens Damke
